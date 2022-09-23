@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/msvc-product/src/main/main.iml" filepath="$PROJECT_DIR$/msvc-product/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msvc-account/msvc-account.iml" filepath="$PROJECT_DIR$/msvc-account/msvc-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msvc-administration/msvc-administration.iml" filepath="$PROJECT_DIR$/msvc-administration/msvc-administration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msvc-administrativo/msvc-administrativo.iml" filepath="$PROJECT_DIR$/msvc-administrativo/msvc-administrativo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msvc-client/msvc-client.iml" filepath="$PROJECT_DIR$/msvc-client/msvc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msvc-financial/msvc-financial.iml" filepath="$PROJECT_DIR$/msvc-financial/msvc-financial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msvc-product/msvc-product.iml" filepath="$PROJECT_DIR$/msvc-product/msvc-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proyecto 01.iml" filepath="$PROJECT_DIR$/.idea/proyecto 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msvc-product/target/target.iml" filepath="$PROJECT_DIR$/msvc-product/target/target.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msvc-product/src/test/test.iml" filepath="$PROJECT_DIR$/msvc-product/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
